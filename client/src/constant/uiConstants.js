@@ -1,0 +1,12 @@
+export const DISPLAY_ALERT = "SHOW_ALERT";
+export const CLEAR_ALERT = "CLEAR_ALERT";
+
+export const TOGGLE_SIDEBAR = "TOGGLE_SIDEBAR";
+
+export const HANDLE_CHANGE = "HANDLE_CHANGE";
+export const CLEAR_VALUES = "CLEAR_VALUES";
+
+export const SHOW_STATS_BEGIN = "SHOW_STATS_BEGIN";
+export const SHOW_STATS_SUCCESS = "SHOW_STATS_SUCCESS";
+export const CLEAR_FILTERS = "CLEAR_FILTERS";
+export const CHANGE_PAGE = "CHANGE_PAGE";
